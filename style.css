@@ -2,18 +2,13 @@
     margin: 0;
 }
 
-.root{
+.root,.root2{
     display: inline;
     height: 900px;
     width: 900px;
     background-color: red;
 }
-.root2{
-    display: inline;
-    height: 900px;
-    width: 900px;
-    background-color: blue;
-}
+
 
 .section{
     position: relative;
